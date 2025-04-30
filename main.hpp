@@ -1,8 +1,6 @@
+#ifndef MAIN_HPP
+#define MAIN_HPP
 
-//********************
-// Declare Function Prototypes
-//********************
+#include "q1.hpp"
 
-// ******************************
-// Implement all your functions here
-// ******************************
+#endif
